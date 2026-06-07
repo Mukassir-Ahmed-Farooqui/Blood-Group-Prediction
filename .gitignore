@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.env.*
+dist/
+build/
+.DS_Store
+models/*.h5
+models/*.keras
+!models/placeholder.txt
